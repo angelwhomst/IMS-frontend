@@ -1,7 +1,7 @@
 {
   "name": "frontend-sia",
   "version": "0.1.0",
-  "homepage": "https://angelwhomst.github.io/IMS-frontend",
+  "homepage": "https://angelwhomst.github.io/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
